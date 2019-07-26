@@ -1,3 +1,7 @@
 theme: jekyll-theme-slate
-header: "R You Ready?"
-description: "R You Ready?"
+title: Veri Madenciliği için İstatiksel Öğrenme
+description: Ekonomi Yaz Seminerleri (22-26 Temmuz 2019)
+show_downloads: false
+encoding: utf-8
+exclude:
+    - "*.Rmd"
