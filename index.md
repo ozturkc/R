@@ -1,6 +1,6 @@
-![R](https://github.com/ozturkc/R/raw/master/Documents/Rlogo.png=250px)
-# **R You Ready?**
 
+# **Why Learn R?**
+R is a widely used statistical programming language that’s beloved by users in academia and industry. R works well with data, making it a great language for anyone interested in data analysis, data visualization, and data science.
 You can click [here](https://cran.pau.edu.tr/) to download R. 
 
 ## **Learn R: Intoduction**
