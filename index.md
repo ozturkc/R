@@ -1,6 +1,6 @@
-# **R You Ready?**
+# **![R](https://github.com/ozturkc/R/blob/master/Documents/Rlogo.png) You Ready?**
 
-You can [click](https://cran.pau.edu.tr/) to download R. ![R](https://github.com/ozturkc/R/blob/master/Documents/Rlogo.png)
+You can [click](https://cran.pau.edu.tr/) to download R. 
 
 ## **Learn R: Intoduction**
 
