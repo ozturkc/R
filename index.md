@@ -6,7 +6,7 @@ You can [click](https://cran.pau.edu.tr/) to download R.
 
 Learn the basics of R Syntax and jumpstart your journey into data analysis.
 
-- Intoduction to R
+- [Intoduction to R](https://github.com/ozturkc/R/blob/master/Documents/RHizliGiris.pdf)
 
 ### Markdown
 
