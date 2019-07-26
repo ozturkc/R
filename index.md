@@ -1,6 +1,6 @@
 # **R You Ready?**
 
-You can [click](https://cran.pau.edu.tr/) to download R. 
+You can [click](https://cran.pau.edu.tr/) to download R. ![R](https://github.com/ozturkc/R/blob/master/Documents/Rlogo.png)
 
 ## **Learn R: Intoduction**
 
