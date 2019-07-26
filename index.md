@@ -13,7 +13,7 @@ Learn the basics of R Syntax and jumpstart your journey into econometric analysi
 
 ## **Learn Econometrics: Introduction**
 
--[Linear Regression](https://github.com/ozturkc/r/blob/master/lin_reg.Rmd)
+-[Linear Regression](lin_reg.Rmd)
 
 ### Markdown
 
