@@ -1,12 +1,14 @@
-# R You Ready?
+# **R You Ready?**
 
 You can [click](https://cran.pau.edu.tr/) to download R. 
 
 ## **Learn R: Intoduction**
 
-Learn the basics of R Syntax and jumpstart your journey into data analysis.
+Learn the basics of R Syntax and jumpstart your journey into econometric analysis.
 
 - [Intoduction to R](https://github.com/ozturkc/R/blob/master/Documents/RHizliGiris.pdf)
+- [Cheat Sheet (English)](Documents/base-r.pdf)
+- [Cheat Sheet (Turkish)]
 
 ### Markdown
 
