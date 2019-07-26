@@ -8,7 +8,7 @@ Learn the basics of R Syntax and jumpstart your journey into econometric analysi
 
 - [Intoduction to R](https://github.com/ozturkc/R/Documents/RHizliGiris.pdf)
 - [Cheat Sheet (English)](Documents/base-r.pdf)
-- [Cheat Sheet (Turkish)]
+- [Cheat Sheet (Turkish)](https://github.com/ozturkc/R/blob/master/Documents/baseR_translate_tr.pdf)
 
 ### Markdown
 
