@@ -7,8 +7,8 @@ You can click [here](https://cran.pau.edu.tr/) to download R.
 Learn the basics of R Syntax and jumpstart your journey into econometric analysis.
 
 - [Intoduction to R](https://github.com/ozturkc/R/raw/master/Documents/RHizliGiris.pdf)
-- [Cheat Sheet (English)](Documents/base-r.pdf)
-- [Cheat Sheet (Turkish)](https://github.com/ozturkc/R/blob/master/Documents/baseR_translate_tr.pdf)
+- [Cheat Sheet (English)](https://github.com/ozturkc/R/raw/master/Documents/baseR.pdf)
+- [Cheat Sheet (Turkish)](https://github.com/ozturkc/R/raw/master/Documents/baseR_translate_tr.pdf)
 
 ### Markdown
 
