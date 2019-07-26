@@ -1,8 +1,12 @@
 # R You Ready?
 
-You can [click](https://cran.pau.edu.tr/) to download R. to maintain and preview the content for your website in Markdown files.
+You can [click](https://cran.pau.edu.tr/) to download R. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## **Learn R: Intoduction**
+
+Learn the basics of R Syntax and jumpstart your journey into data analysis.
+
+- Intoduction to R
 
 ### Markdown
 
