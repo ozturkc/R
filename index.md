@@ -1,4 +1,4 @@
-# **![R](Rlogo.png=250px) You Ready?**
+# **![R](Documents/Rlogo.png=250px) You Ready?**
 
 You can click [here](https://cran.pau.edu.tr/) to download R. 
 
