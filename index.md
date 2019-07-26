@@ -11,6 +11,10 @@ Learn the basics of R Syntax and jumpstart your journey into econometric analysi
 - [Cheat Sheet (English)](https://github.com/ozturkc/R/raw/master/Documents/base-r.pdf)
 - [Cheat Sheet (Turkish)](https://github.com/ozturkc/R/raw/master/Documents/baseR_translate_tr.pdf)
 
+## **Learn Econometrics: Introduction**
+
+-[Linear Regression](https://github.com/ozturkc/r/blob/master/lin_reg.Rmd)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
