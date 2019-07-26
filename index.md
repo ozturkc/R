@@ -1,4 +1,4 @@
-# **![R](Documents/Rlogo.png=250px) You Ready?**
+# **![R](https://github.com/ozturkc/R/raw/master/Documents/Rlogo.png=250px) You Ready?**
 
 You can click [here](https://cran.pau.edu.tr/) to download R. 
 
