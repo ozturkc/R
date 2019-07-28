@@ -11,8 +11,6 @@ The popularity of `R` is on the rise, and everyday it becomes a better tool for 
 
 The following few chapters will serve as a whirlwind introduction to `R`. They are by no means meant to be a complete reference for the `R` language, but simply an introduction to the basics that we will need along the way. Several of the more important topics will be re-stressed as they are actually needed for analyses.
 
-This introductory `R` chapter may feel like an overwhelming amount of information. You are not expected to pick up everything the first time through. You should try all of the code from this chapter, then return to it a number of times as you return to the concepts when performing analyses. We present the bare basics in this chapter, some more details are in chapter \@ref(R-advanced).
-
 
 ## **Learn R: Intoduction**
 
