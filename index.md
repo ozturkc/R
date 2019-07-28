@@ -13,31 +13,10 @@ Learn the basics of R Syntax and jumpstart your journey into econometric analysi
 
 ## **Learn Econometrics: Introduction**
 
--[Linear Regression](lin_reg.Rmd)
+-[Basic Econometrics](https://github.com/ozturkc/R/raw/master/Documents/Damodar Gujarati%2C Dawn Porter - Basic Econometrics-McGraw-Hill Education (2008).pdf)
+-[Applied Econometrics with R](https://github.com/ozturkc/R/raw/master/Documents/applied_econometrics_with_R.pdf)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```R
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### **Useful Links**
 
