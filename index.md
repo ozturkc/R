@@ -1,7 +1,18 @@
 
 ## **Why Learn R?**
 R is a widely used statistical programming language that’s beloved by users in academia and industry. R works well with data, making it a great language for anyone interested in data analysis, data visualization, and data science.
-You can click [here](https://cran.pau.edu.tr/) to download R. 
+
+1. [`R`, the actual programming language.](https://www.r-project.org)
+    - Chose your operating system, and select the most recent version.
+1. [RStudio, an excellent IDE for working with `R`.](http://www.rstudio.com/)
+    - Note, you must have `R` installed to use RStudio. RStudio is simply an interface used to interact with `R`.
+
+The popularity of `R` is on the rise, and everyday it becomes a better tool for statistical analysis. It even generated this book!
+
+The following few chapters will serve as a whirlwind introduction to `R`. They are by no means meant to be a complete reference for the `R` language, but simply an introduction to the basics that we will need along the way. Several of the more important topics will be re-stressed as they are actually needed for analyses.
+
+This introductory `R` chapter may feel like an overwhelming amount of information. You are not expected to pick up everything the first time through. You should try all of the code from this chapter, then return to it a number of times as you return to the concepts when performing analyses. We present the bare basics in this chapter, some more details are in chapter \@ref(R-advanced).
+
 
 ## **Learn R: Intoduction**
 
