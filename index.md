@@ -14,11 +14,12 @@ Learn the basics of R Syntax and jumpstart your journey into econometric analysi
 ## **Learn Econometrics: Introduction**
 
 -[Basic Econometrics](https://github.com/ozturkc/R/raw/master/Documents/Damodar Gujarati%2C Dawn Porter - Basic Econometrics-McGraw-Hill Education (2008).pdf)
+
 -[Applied Econometrics with R](https://github.com/ozturkc/R/raw/master/Documents/applied_econometrics_with_R.pdf)
 
 
 
-### **Useful Links**
+## **Useful Links**
 
 - [Rpsychologist](https://rpsychologist.com/)
 - [Shiny](https://statistics.calpoly.edu/shiny)
