@@ -1,6 +1,6 @@
-![R](https://github.com/ozturkc/R/raw/master/Documents/Rlogo.png=250px)
-# **R You Ready?**
 
+## **Why Learn R?**
+R is a widely used statistical programming language that’s beloved by users in academia and industry. R works well with data, making it a great language for anyone interested in data analysis, data visualization, and data science.
 You can click [here](https://cran.pau.edu.tr/) to download R. 
 
 ## **Learn R: Intoduction**
@@ -11,11 +11,15 @@ Learn the basics of R Syntax and jumpstart your journey into econometric analysi
 - [Cheat Sheet (English)](https://github.com/ozturkc/R/raw/master/Documents/base-r.pdf)
 - [Cheat Sheet (Turkish)](https://github.com/ozturkc/R/raw/master/Documents/baseR_translate_tr.pdf)
 
+## **Learn Econometrics: Introduction**
+
+-[Linear Regression](lin_reg.Rmd)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
+```R
 Syntax highlighted code block
 
 # Header 1
