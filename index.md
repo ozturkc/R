@@ -36,4 +36,4 @@ Learn the basics of R Syntax and jumpstart your journey into econometric analysi
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our documentation or contact support and we’ll help you sort it out.
