@@ -1,7 +1,16 @@
 
 ## **Why Learn R?**
 R is a widely used statistical programming language that’s beloved by users in academia and industry. R works well with data, making it a great language for anyone interested in data analysis, data visualization, and data science.
-You can click [here](https://cran.pau.edu.tr/) to download R. 
+
+1. [`R`, the actual programming language.](https://www.r-project.org)
+    - Chose your operating system, and select the most recent version.
+1. [RStudio, an excellent IDE for working with `R`.](http://www.rstudio.com/)
+    - Note, you must have `R` installed to use RStudio. RStudio is simply an interface used to interact with `R`.
+
+The popularity of `R` is on the rise, and everyday it becomes a better tool for statistical analysis. It even generated this book!
+
+The following few chapters will serve as a whirlwind introduction to `R`. They are by no means meant to be a complete reference for the `R` language, but simply an introduction to the basics that we will need along the way. Several of the more important topics will be re-stressed as they are actually needed for analyses.
+
 
 ## **Learn R: Intoduction**
 
@@ -13,33 +22,13 @@ Learn the basics of R Syntax and jumpstart your journey into econometric analysi
 
 ## **Learn Econometrics: Introduction**
 
--[Linear Regression](lin_reg.Rmd)
+-[Basic Econometrics](https://github.com/ozturkc/R/raw/master/Documents/Damodar Gujarati%2C Dawn Porter - Basic Econometrics-McGraw-Hill Education (2008).pdf)
 
-### Markdown
+-[Applied Econometrics with R](https://github.com/ozturkc/R/raw/master/Documents/applied_econometrics_with_R.pdf)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```R
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### **Useful Links**
+## **Useful Links**
 
 - [Rpsychologist](https://rpsychologist.com/)
 - [Shiny](https://statistics.calpoly.edu/shiny)
