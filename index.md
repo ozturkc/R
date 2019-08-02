@@ -22,17 +22,20 @@ Learn the basics of R Syntax and jumpstart your journey into econometric analysi
 
 ## **Learn Econometrics: Introduction**
 
--[Basic Econometrics](https://github.com/ozturkc/R/raw/master/Documents/Damodar Gujarati%2C Dawn Porter - Basic Econometrics-McGraw-Hill Education (2008).pdf)
+- [Basic Econometrics](https://github.com/ozturkc/R/raw/master/Documents/Damodar Gujarati%2C Dawn Porter - Basic Econometrics-McGraw-Hill Education (2008).pdf)
 
--[Applied Econometrics with R](https://github.com/ozturkc/R/raw/master/Documents/applied_econometrics_with_R.pdf)
+- [Applied Econometrics with R](https://github.com/ozturkc/R/raw/master/Documents/applied_econometrics_with_R.pdf)
 
-
+## **Data**
+- [Production](https://github.com/ozturkc/R/raw/master/Data/prod.xlsx)
 
 ## **Useful Links**
 
 - [Rpsychologist](https://rpsychologist.com/)
 - [Shiny](https://statistics.calpoly.edu/shiny)
 
+
+
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our documentation or contact support and we’ll help you sort it out.
