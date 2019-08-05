@@ -26,6 +26,9 @@ Learn the basics of R Syntax and jumpstart your journey into econometric analysi
 
 - [Applied Econometrics with R](https://github.com/ozturkc/R/raw/master/Documents/applied_econometrics_with_R.pdf)
 
+## **Codes**
+- [Guess the Number Game](https://github.com/ozturkc/R/raw/master/Codes/sayi_tahmin.R)
+
 ## **Data**
 - [Production](https://github.com/ozturkc/R/raw/master/Data/prod_2.xlsx)
 
